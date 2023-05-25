@@ -1,0 +1,13 @@
+.thumbnail {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+  margin-left: 0;
+  cursor: pointer;
+}
+.thumbnail-active_style {
+  opacity: 0.5;
+}
+.li-container {
+  list-style-type: none;
+}
